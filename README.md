@@ -12,5 +12,5 @@ Just fork the original repo at pragmaticlearning/github-example, make your chang
 How to Test?
 =================
 
-Just test it!
+Just ttttest it!
 3
